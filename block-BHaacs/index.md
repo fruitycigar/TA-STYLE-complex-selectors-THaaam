@@ -12,7 +12,7 @@ Figure out the best possible view for the small screens.
 
 - Use semantic tags and keep the nesting and indentation proper.
 
-- Pay attention to the codes, your code quality matters a lot.
+- Pay attention to the code, your code quality matters a lot.
 
 - Try to implement the layout as exactly as it has been provided in the design.
 
